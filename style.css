@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+.container{
+    margin-bottom: 60px;
+}
+.logo{
+    width: 100px;
+}
+
+.car-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px;
+    box-sizing: border-box;
+}
+.button{
+    background-image: linear-gradient(to bottom, #ff136f 0%, #ff136f 100%);
+    border: none;
+    color: white;
+    margin-top: 15px;
+    padding: 7px 12px;
+    border-radius: 10px;
+}
+#car-img{
+    width: 100%;
+    height: 320px;
+}
+#product{
+    width: 100px;
+    height: 100px;
+    margin: 10px 30px;
+}
+.cat1{
+    background-image: linear-gradient(to right, orange 100%, orange 0%);
+    border-radius: 5px;
+}
+.cat2{
+    background-image: linear-gradient(to right, #ff136f 0%, #ff136f 100%);
+    border-radius: 5px;
+}
+.cat3{
+    background-image: linear-gradient(to right, rgb(17, 19, 136), blue);
+    border-radius: 5px;
+}
+.card{
+    background-color: cornflowerblue !important;
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+}
+#contact{
+    padding: 50px;
+}
+footer{
+    text-align: center;
+}
+
