@@ -36,14 +36,17 @@ body{
 .cat1{
     background-image: linear-gradient(to right, orange 100%, orange 0%);
     border-radius: 5px;
+    margin: 20px;
 }
 .cat2{
     background-image: linear-gradient(to right, #ff136f 0%, #ff136f 100%);
     border-radius: 5px;
+    margin: 20px;
 }
 .cat3{
     background-image: linear-gradient(to right, rgb(17, 19, 136), blue);
     border-radius: 5px;
+    margin: 20px;
 }
 .card{
     background-color: cornflowerblue !important;
